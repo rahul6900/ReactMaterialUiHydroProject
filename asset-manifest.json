@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMaterialUiHydroProject/static/css/main.f7d5ec0e.css",
+    "main.js": "/ReactMaterialUiHydroProject/static/js/main.fcb28f43.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ReactMaterialUiHydroProject/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/ReactMaterialUiHydroProject/index.html",
+    "main.f7d5ec0e.css.map": "/ReactMaterialUiHydroProject/static/css/main.f7d5ec0e.css.map",
+    "main.fcb28f43.js.map": "/ReactMaterialUiHydroProject/static/js/main.fcb28f43.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ReactMaterialUiHydroProject/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7d5ec0e.css",
+    "static/js/main.fcb28f43.js"
+  ]
+}
